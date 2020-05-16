@@ -1,5 +1,6 @@
 # ToDoApp
-    Adding new todo, delete the completed todos
+- [x]  Adding new todo
+- [x]  delete the completed todos
 
 ## Using
 - React native
