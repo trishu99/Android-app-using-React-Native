@@ -11,4 +11,9 @@
 
 ## ScreenShots
 
+<img src="ScreenShots/splash-screen.jpeg" width="200">
+<img src="ScreenShots/home-screen.jpeg" width="200" >
+<img src="ScreenShots/added-todo.jpeg"  width="200">
+
+
 
