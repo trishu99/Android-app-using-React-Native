@@ -9,7 +9,7 @@
 - React Native CLI
 
 ## Install 
-<a href="https://gitlab.com/trishu/android-app-using-react-native/-/blob/master/loginapp/Apk/app-release.apk"><img src="ScreenShots/"></a>
+<a href="https://gitlab.com/trishu/android-app-using-react-native/-/blob/master/loginapp/Apk/app-release.apk"><img src="ScreenShots/download.png"></a>
 
 # ScreenShots
 
