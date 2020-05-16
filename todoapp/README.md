@@ -1,5 +1,13 @@
 # ToDoApp
+    Adding new todo, delete the completed todos
 
 ## Using
-### [-] React native
-### [-] Expo
+- React native
+- Expo
+
+# Install
+<a href="https://gitlab.com/trishu/android-app-using-react-native/-/blob/master/todoapp/Apk/myproject.apk"><img src="ScreenShots/install-png-5.png" height="130" width="130"></a>
+
+## ScreenShots
+
+
