@@ -13,5 +13,5 @@
 
 # ScreenShots
 
-<img src="ScreenShots/login-page.png" width="200" >
-<img src="ScreenShots/home-page.png" width="200">
+<img align='left' src="ScreenShots/login-page.png" width="200" >
+<img align='left' src="ScreenShots/home-page.png" width="200">
